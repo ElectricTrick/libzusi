@@ -1,0 +1,3 @@
+[submodule "zusi3tcp"]
+	path = zusi3tcp
+	url = git@github.com:ElectricTrick/zusi3tcp.git
