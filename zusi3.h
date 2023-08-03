@@ -62,7 +62,6 @@ private:
   Thread *inbox_thread;
   byte status;
   bool run;
-  DigitalOut ledRx, ledTx;
 };
 
 #endif // ZUSI
